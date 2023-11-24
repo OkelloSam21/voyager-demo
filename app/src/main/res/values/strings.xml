@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MentorLIst</string>
+    <string name="network">Network with techies</string>
+    <string name="mentorship">One-on-one mentorship</string>
+    <string name="get_coached">Get coached by industry experts near you</string>
+    <string name="access_to_masterclasses">Access to masterclasses</string>
+    <string name="group_session">Get free group sessions and masterclasses by industry experts</string>
+    <string name="connect_with_fellow_tech_enthusiasts_in_different_fields">"Connect with fellow tech enthusiasts in different fields "</string>
+    <!--    <string name=""></string>-->
+<!--    <string name=""></string>-->
+</resources>
